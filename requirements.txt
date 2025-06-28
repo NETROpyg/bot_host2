@@ -3,7 +3,6 @@ requests
 psutil
 python-telegram-bot
 requests
-time
 signal
 threading
 datetime
