@@ -1,3 +1,7 @@
+from keep_alive import keep_alive
+
+keep_alive()  # لتشغيل الويب سيرفر الصغير
+
 import telebot
 from telebot import types
 import subprocess
