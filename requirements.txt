@@ -1,9 +1,8 @@
-telebot
+telebot 
 requests
 psutil
 python-telegram-bot
 requests
-signal
 threading
 datetime
 os
