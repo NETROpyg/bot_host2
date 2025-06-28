@@ -2,7 +2,6 @@ telebot
 requests
 psutil
 python-telegram-bot
-json
 requests
 time
 signal
