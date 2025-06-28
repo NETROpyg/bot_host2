@@ -4,5 +4,3 @@ psutil
 python-telegram-bot
 requests
 datetime
-os
-subprocess
